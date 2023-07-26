@@ -1,4 +1,3 @@
-pip install --upgrade pip
 import streamlit
 import pandas
 import snowflake.connector

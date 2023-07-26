@@ -1,3 +1,4 @@
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 import streamlit
 import pandas
 import snowflake.connector
